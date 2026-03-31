@@ -2,8 +2,6 @@
 
 > **MRI-Free Brain PET Quantification** via Diffusion-Based CT-to-MRI Synthesis with Uncertainty Quantification
 
-**Researcher:** Jungwoo Seo | **Lab:** [Transconnectome](https://github.com/Transconnectome), Seoul National University  
-
 ---
 
 ## Overview
